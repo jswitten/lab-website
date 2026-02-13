@@ -1,0 +1,10 @@
+{{- define "main" -}}
+
+{{ if .Title }}
+<div class="max-w-prose mx-auto flex justify-center mt-10">
+  <h1 class="text-4xl lg:text-6xl font-bold tracking-tight text-slate-900 dark:text-slate-100 text-center">{{ .Title }}</h1>
+</div>
+{{ end }}
+
+{{ partial "landing_page.html" . }}
+{{- end -}}

@@ -1,0 +1,66 @@
+schema: hugoblox/author/v1
+slug: jacob-witten
+is_owner: true
+user_groups:
+  - Principal Investigator
+name:
+  display: Jacob Witten
+  given: Jacob
+  family: Witten
+postnominals:
+  - PhD
+status:
+  icon: ""
+role: Assistant Professor
+bio: |
+  Jacob Witten is an Assistant Professor in the Department of Genetics & Genome Sciences
+  at Case Western Reserve University School of Medicine. His research develops AI-driven approaches
+  to design lipid nanoparticles for pulmonary gene therapy.
+
+affiliations:
+  - name: Case Western Reserve University School of Medicine
+    url: https://case.edu/medicine/genetics/
+
+links:
+  - icon: at-symbol
+    url: mailto:jxw1952@case.edu
+    label: E-mail
+  - icon: brands/github
+    url: https://github.com/jswitten
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=1qhJmO8AAAAJ
+
+interests:
+  - Machine Learning for Drug Delivery
+  - Lipid Nanoparticle Design
+  - Pulmonary Gene Therapy
+  - Computational Biology
+
+education:
+  - degree: PhD, Computational and Systems Biology
+    institution: Massachusetts Institute of Technology
+    end: 2019-06-01
+  - degree: BA, Biochemistry & Biophysics, Mathematics
+    institution: Amherst College
+    end: 2014-05-01
+
+experience:
+  - role: Assistant Professor
+    org: Case Western Reserve University School of Medicine
+    start: 2025-06-01
+    summary: |
+      Department of Genetics & Genome Sciences
+  - role: Postdoctoral Fellow
+    org: Massachusetts Institute of Technology
+    start: 2019-01-01
+    end: 2025-05-31
+    summary: |
+      With Dr. Daniel Anderson. Developed LiON framework for AI-guided lipid nanoparticle design.
+
+awards:
+  - title: Path to a Cure Postdoc-to-Faculty Transition Award
+    awarder: Cystic Fibrosis Foundation
+    date: "2023-01-01"
+  - title: NSF Graduate Research Fellowship
+    awarder: National Science Foundation
+    date: "2016-01-01"

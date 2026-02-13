@@ -1,0 +1,26 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hugo cache
+hugo_cache/
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Source/working files (not needed for site build)
+Headshots/
+Info_for_preparing_lab_website/
+art_to_make_into_banners/
+
+# Claude Code
+.claude/

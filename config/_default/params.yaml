@@ -1,0 +1,161 @@
+# Hugo Blox Configuration
+hugoblox:
+  schema: "2.0"
+
+  # Identity
+  identity:
+    name: "Witten Lab"
+    organization: "Case Western Reserve University School of Medicine"
+    type: organization
+    tagline: "AI-Driven Gene Therapy for Lung Disease"
+    description: "The Witten Lab develops machine learning approaches to design lipid nanoparticles for pulmonary gene therapy. Department of Genetics and Genome Sciences, Case Western Reserve University School of Medicine."
+    social:
+      twitter: ""
+
+  # Theme
+  theme:
+    mode: system
+    pack: "default"
+    colors:
+      primary: "blue"
+      secondary: ""
+      neutral: ""
+    colors_light: {}
+    colors_dark: {}
+    surfaces:
+      background: ""
+      foreground: ""
+      header:
+        background: ""
+        foreground: ""
+      footer:
+        background: ""
+        foreground: ""
+
+  # Typography
+  typography:
+    font: "sans"
+    size: "md"
+
+  # Layout
+  layout:
+    radius: "md"
+    spacing: "comfortable"
+    avatar_shape: circle
+
+  # Header
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
+    theme_picker: false
+    language_switcher: false
+    cta:
+      enable: false
+      text: ""
+      url: ""
+
+  # Footer
+  footer:
+    style: minimal
+    language_switcher: false
+    text: ""
+
+  # Copyright
+  copyright:
+    notice: "© {year} Witten Lab, Case Western Reserve University"
+    license:
+      type: custom
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+  # SEO
+  seo:
+    title: "Witten Lab | AI for Gene Therapy"
+    location:
+      address:
+        street: ""
+        city: "Cleveland"
+        region: "OH"
+        postal_code: ""
+        country: "USA"
+      coordinates:
+        latitude: null
+        longitude: null
+      phone: ""
+    ai:
+      allow:
+        - /
+      disallow: []
+      note: ""
+      contact: ""
+
+  # Content
+  content:
+    math:
+      enable: false
+    toc:
+      enable: true
+    reading_time:
+      enable: false
+    citations:
+      style: apa
+
+  # Search
+  search:
+    enable: true
+    suggestions: []
+    quick_actions: []
+
+  # Comments
+  comments:
+    enable: false
+    provider: ""
+
+  # Analytics (leave empty until you want to add tracking)
+  analytics:
+    google:
+      measurement_id: ""
+
+  # Verification
+  verification:
+    google: ""
+
+  # Repository
+  repository:
+    enable: false
+    url: "https://github.com/jswitten/lab-website"
+    branch: main
+    content_dir: content
+
+  # Locale
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"
+    address_format: en-us
+
+  # Security
+  security:
+    csp:
+      policy: ""
+      report_only: false
+    frame_options: allow
+    permissions_policy: ""
+
+  # Privacy
+  privacy:
+    enable: false
+    anonymize_analytics: true
+
+  # Debug
+  debug:
+    enable: false
+
+  # Premium
+  pro:
+    hide_attribution: false
+    affiliate_code: ""
