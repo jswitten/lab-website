@@ -34,6 +34,16 @@ sections:
 
         [Google Scholar](https://scholar.google.com/citations?user=WBBnMuoAAAAJ&hl=zh-CN) | pxn207@case.edu
 
+        <br>
+
+        <img src="/lab-website/media/authors/shashi-singh.jpg" alt="Shashi Singh" width="200">
+
+        **Shashi Singh, PhD**
+
+        Shashi's research develops scalable platforms for targeted RNA delivery and gene editing by combining nanoparticle engineering with high-throughput screening. He uses self-amplifying RNA and ADAR-mediated editing to achieve efficient, low-dose gene modulation in hard-to-target tissues and explores DNA-encoded library–based multiplexed screening to discover new ASO delivery platforms for modulating RNA splicing. He earned his PhD in RNA Biology and Post-Transcriptional Gene Regulation from Jawaharlal Nehru University (New Delhi, India) and was a postdoctoral fellow with Dr. Joseph Luna at Case Western Reserve University (2022–2026) and at Cleveland Clinic (2019–2022).
+
+        [Google Scholar](https://scholar.google.co.in/citations?user=4_PQJwIAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/shashisingh001/) | sxs2904@case.edu
+
         ---
 
         ## Graduate Students
