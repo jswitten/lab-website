@@ -61,7 +61,7 @@ sections:
 
         ---
 
-        **Interested in joining?** We are recruiting PhD students and postdocs. See our [Join](/join/) page for more information.
+        **Interested in joining?** We are recruiting PhD students and postdocs. See our [Join](/lab-website/join/) page for more information.
     design:
       columns: '2'
 ---

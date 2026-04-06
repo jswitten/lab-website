@@ -48,7 +48,7 @@ sections:
 
         ## Graduate Students
 
-        *Positions available - see [Join](/join/) page*
+        *Positions available - see [Join](/lab-website/join/) page*
 
         ---
 
