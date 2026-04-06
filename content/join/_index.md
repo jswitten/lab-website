@@ -44,7 +44,9 @@ sections:
 
         ## Research Assistants
 
-        We are working to put up a job posting soon. Check back in mid-March for updates.
+        **Research Assistant I** — Apply through the [CWRU job portal](https://employment.case.edu/psc/ERECRUIT/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&FOCUS=Applicant&FolderPath=PORTAL_ROOT_OBJECT.HC_HRS_CE_GBL2) and search for Job ID **#14353**.
+
+        **Research Assistant III** — Posting coming soon.
 
         ---
 
