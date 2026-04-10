@@ -46,7 +46,7 @@ sections:
 
         **Research Assistant I** — Apply through the [CWRU job portal](https://employment.case.edu/psc/ERECRUIT/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&FOCUS=Applicant&FolderPath=PORTAL_ROOT_OBJECT.HC_HRS_CE_GBL2) and search for Job ID **#14353**.
 
-        **Research Assistant III** — Posting coming soon.
+        **Research Assistant III** — Apply through the [CWRU job portal](https://employment.case.edu/psc/ERECRUIT/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&FOCUS=Applicant&FolderPath=PORTAL_ROOT_OBJECT.HC_HRS_CE_GBL2) and search for Job ID **#14347**.
 
         ---
 
