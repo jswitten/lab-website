@@ -11,7 +11,7 @@ sections:
     content:
       title: ''
       text: |-
-        The Witten Lab is recruiting motivated researchers at all levels to join our team at Case Western Reserve University starting June 2026.
+        The Witten Lab is recruiting motivated researchers at all levels to join our team at Case Western Reserve University.
 
         We are seeking people with interest in any of:
 
@@ -39,14 +39,6 @@ sections:
         1. CV
         2. Brief description of research interests and why you're interested in the lab
         3. Names of 2-3 references
-
-        ---
-
-        ## Research Assistants
-
-        **Research Assistant I** — Apply through the [CWRU job portal](https://employment.case.edu/psc/ERECRUIT/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&FOCUS=Applicant&FolderPath=PORTAL_ROOT_OBJECT.HC_HRS_CE_GBL2) and search for Job ID **#14353**.
-
-        **Research Assistant III** — Apply through the [CWRU job portal](https://employment.case.edu/psc/ERECRUIT/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&FOCUS=Applicant&FolderPath=PORTAL_ROOT_OBJECT.HC_HRS_CE_GBL2) and search for Job ID **#14347**.
 
         ---
 
