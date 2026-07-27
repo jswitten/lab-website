@@ -1,1 +1,135 @@
 /* Custom styles for Witten Lab website */
+
+/* ---------------------------------------------------------------
+   Author lists: underline J. Witten
+   --------------------------------------------------------------- */
+a[href*="/authors/j.-witten/"] {
+  text-decoration: underline !important;
+}
+
+/* ---------------------------------------------------------------
+   Collection cards (News). The theme sets object-fit: fill on card
+   images, which horizontally stretches portrait headshots.
+   --------------------------------------------------------------- */
+.hbb-section img.object-fill {
+  object-fit: cover !important;
+  object-position: center 25%;
+}
+
+/* ---------------------------------------------------------------
+   Homepage news: two columns instead of one full-width card per
+   post, so the featured headshots don't dominate the page.
+   --------------------------------------------------------------- */
+#news .container.grid {
+  max-width: 62rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+@media (max-width: 800px) {
+  #news .container.grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---------------------------------------------------------------
+   Wider content column for the layouts below. The 65ch default is
+   too narrow for a photo grid or a panoramic figure.
+   --------------------------------------------------------------- */
+.hbb-section:has(.people-grid) .max-w-prose,
+.page-body:has(.research-topics) .max-w-prose {
+  max-width: 58rem;
+}
+
+/* ---------------------------------------------------------------
+   People page
+   --------------------------------------------------------------- */
+.people-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2.75rem;
+  margin: 1.5rem 0 1rem;
+}
+
+.person {
+  display: grid;
+  grid-template-columns: 190px minmax(0, 1fr);
+  gap: 1.75rem;
+  align-items: start;
+}
+
+.person > img {
+  width: 190px;
+  height: 190px;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 14px;
+  margin: 0;
+  background: #e9edf2;
+  box-shadow: 0 1px 3px rgb(15 23 42 / 12%);
+}
+
+.person-name {
+  font-weight: 700;
+  font-size: 1.15rem;
+  line-height: 1.35;
+  margin: 0;
+}
+
+.person-role {
+  font-size: 0.95rem;
+  margin: 0.15rem 0 0.75rem;
+  opacity: 0.72;
+}
+
+.person-bio {
+  margin: 0 0 0.75rem;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.person-links {
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.people-note {
+  font-size: 0.95rem;
+  opacity: 0.72;
+  margin: 0.25rem 0 0;
+}
+
+@media (max-width: 640px) {
+  .person {
+    grid-template-columns: 1fr;
+  }
+
+  .person > img {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+/* ---------------------------------------------------------------
+   Research page: the figures are panoramic (up to 4:1), so they
+   need the full content width to stay legible.
+   --------------------------------------------------------------- */
+.research-topics {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.topic h3 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+}
+
+.topic p {
+  margin-top: 0;
+}
+
+.topic img {
+  width: 100%;
+  border-radius: 10px;
+  margin: 1.25rem 0 0;
+}
