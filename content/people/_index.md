@@ -62,9 +62,18 @@ sections:
         </div>
         </div>
 
-        <p class="people-note">Additional positions available — see the <a href="/lab-website/join/">Join</a> page.</p>
-
         ## Undergraduate Students
 
-        <p class="people-note">Contact Dr. Witten if interested in research opportunities.</p>
+        <div class="people-grid">
+        <div class="person">
+        <img src="/lab-website/media/authors/sarayu-maddala.jpg" alt="Sarayu Maddala">
+        <div>
+        <p class="person-name">Sarayu Maddala</p>
+        <p class="person-role">Undergraduate Student, Biology</p>
+        <p class="person-bio">Sarayu is an incoming undergraduate student at Case Western Reserve University studying Biology. Her research focuses on leveraging viral biology to develop safer and more effective gene therapies.</p>
+        </div>
+        </div>
+        </div>
+
+        <p class="people-note">Additional positions available — see the <a href="/lab-website/join/">Join</a> page.</p>
 ---
