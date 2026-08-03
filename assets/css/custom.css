@@ -8,6 +8,19 @@ a[href*="/authors/j.-witten/"] {
 }
 
 /* ---------------------------------------------------------------
+   Navbar logo. The mark is dark navy, which nearly disappears
+   against the dark-mode navbar, so swap in a light version.
+   --------------------------------------------------------------- */
+.dark .navbar-brand img,
+[data-theme="dark"] .navbar-brand img {
+  content: url("/lab-website/media/logo-dark.png");
+  /* the replaced image drops the width/height attrs, so re-pin the size */
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
+/* ---------------------------------------------------------------
    Collection cards (News). The theme sets object-fit: fill on card
    images, which horizontally stretches portrait headshots.
    --------------------------------------------------------------- */
