@@ -11,4 +11,4 @@ The Witten Lab officially opens at Case Western Reserve University in the Depart
 
 Our lab focuses on developing AI-driven approaches to design lipid nanoparticles for treating lung diseases. We combine computational methods with experimental validation to accelerate the development of next-generation gene therapies.
 
-We are actively recruiting graduate students and postdocs to join our team. If you're interested in working at the intersection of machine learning and bioengineering, please visit our [Join](/lab-website/join/) page for more information.
+If you're interested in working at the intersection of machine learning and bioengineering, please visit our [Join](/lab-website/join/) page for current openings.

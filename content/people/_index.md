@@ -20,7 +20,7 @@ sections:
         <p class="person-name">Jacob Witten, PhD</p>
         <p class="person-role">Assistant Professor, Department of Genetics &amp; Genome Sciences</p>
         <p class="person-bio">Jacob's research focuses on integrating AI with novel high-throughput screening approaches to design lipid nanoparticles for gene therapy. He received his PhD in Computational and Systems Biology from MIT and was a postdoctoral fellow with Dr. Daniel Anderson.</p>
-        <p class="person-links"><a href="https://scholar.google.com/citations?user=1qhJmO8AAAAJ">Google Scholar</a> &middot; <a href="https://github.com/jswitten">GitHub</a> &middot; <a href="mailto:jxw1952@case.edu">jxw1952@case.edu</a></p>
+        <p class="person-links"><a href="https://scholar.google.com/citations?user=1qhJmO8AAAAJ">Google Scholar</a> &middot; <a href="https://github.com/jswitten">GitHub</a> &middot; <a href="mailto:jacob.witten@case.edu">jacob.witten@case.edu</a></p>
         </div>
         </div>
         </div>
@@ -75,5 +75,5 @@ sections:
         </div>
         </div>
 
-        <p class="people-note">Additional positions available — see the <a href="/lab-website/join/">Join</a> page.</p>
+        <p class="people-note">We are not currently hiring, except for CWRU undergraduate researchers &mdash; see the <a href="/lab-website/join/">Join</a> page.</p>
 ---

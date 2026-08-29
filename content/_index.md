@@ -57,11 +57,11 @@ sections:
         Case Western Reserve University School of Medicine
         Cleveland, OH
 
-        **Email:** jxw1952@case.edu
+        **Email:** jacob.witten@case.edu
 
         ---
 
-        **Interested in joining?** We are recruiting PhD students and postdocs. See our [Join](/lab-website/join/) page for more information.
+        **Interested in joining?** We are not hiring at this time, except for CWRU undergraduate researchers. See our [Join](/lab-website/join/) page for more information.
     design:
       columns: '2'
 ---
