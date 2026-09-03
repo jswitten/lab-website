@@ -31,7 +31,7 @@ sections:
 
         ## Undergraduate Students
 
-        This is the one position we are actively recruiting for. CWRU undergraduates interested in research opportunities should reach out by email with your resume and a brief description of your interests.
+        This is the one position we are actively recruiting for. CWRU undergraduates interested in research opportunities should fill out our [undergraduate interest form](https://docs.google.com/forms/d/e/1FAIpQLSfaTjHk0eCyKROc1y9-NMfjrC8wNK2UJZhEBeS_DJs9LH1VOw/viewform), and email Dr. Witten with your resume and a brief description of your interests.
 
         ---
 
