@@ -11,6 +11,11 @@ sections:
     content:
       title: ''
       text: |-
+        <figure class="lab-photo">
+        <img src="/lab-website/media/lab-photo-2026.jpg" alt="Members of the Witten Lab around a table">
+        <figcaption>The Witten Lab, September 2026.</figcaption>
+        </figure>
+
         ## Principal Investigator
 
         <div class="people-grid">
@@ -62,6 +67,19 @@ sections:
         </div>
         </div>
 
+        ## Research Staff
+
+        <div class="people-grid">
+        <div class="person">
+        <img src="/lab-website/media/authors/renee-liou.jpg" alt="Renee Liou">
+        <div>
+        <p class="person-name">Renee Liou</p>
+        <p class="person-role">Research Technician</p>
+        <p class="person-bio">Renee received her B.A. in Chemistry and Religion from Amherst College. Her research focuses on nanoparticle formulation and delivery efficiency to improve gene therapy approaches.</p>
+        </div>
+        </div>
+        </div>
+
         ## Undergraduate Students
 
         <div class="people-grid">
@@ -71,6 +89,14 @@ sections:
         <p class="person-name">Sarayu Maddala</p>
         <p class="person-role">Undergraduate Student, Biology</p>
         <p class="person-bio">Sarayu is an incoming undergraduate student at Case Western Reserve University studying Biology. Her research focuses on leveraging viral biology to develop safer and more effective gene therapies.</p>
+        </div>
+        </div>
+        <div class="person">
+        <img src="/lab-website/media/authors/ethan-knapp.jpg" alt="Ethan Knapp">
+        <div>
+        <p class="person-name">Ethan Knapp</p>
+        <p class="person-role">Undergraduate Student, Biomedical Engineering</p>
+        <p class="person-bio">Ethan is a first-year undergraduate student at Case Western Reserve University majoring in Biomedical Engineering. His research includes using CRISPR gene editing and machine learning in predictive modeling to tackle microbiology-based issues.</p>
         </div>
         </div>
         </div>

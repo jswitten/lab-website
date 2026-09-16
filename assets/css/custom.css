@@ -111,6 +111,25 @@ a[href*="/authors/j.-witten/"] {
   margin: 0.25rem 0 0;
 }
 
+.lab-photo {
+  margin: 0 0 2.5rem;
+}
+
+.lab-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+  display: block;
+  box-shadow: 0 1px 3px rgb(15 23 42 / 12%);
+}
+
+.lab-photo figcaption {
+  font-size: 0.9rem;
+  opacity: 0.72;
+  margin-top: 0.6rem;
+  text-align: center;
+}
+
 @media (max-width: 640px) {
   .person {
     grid-template-columns: 1fr;
