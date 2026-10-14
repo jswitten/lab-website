@@ -61,7 +61,7 @@ sections:
 
         ---
 
-        **Interested in joining?** We are not hiring at this time, except for CWRU undergraduate researchers. See our [Join](/lab-website/join/) page for more information.
+        **Interested in joining?** We are not hiring at this time, except for CWRU undergraduate researchers and potentially CWRU master's students. See our [Join](/lab-website/join/) page for more information.
     design:
       columns: '2'
 ---

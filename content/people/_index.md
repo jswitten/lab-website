@@ -109,5 +109,5 @@ sections:
         </div>
         </div>
 
-        <p class="people-note">We are not currently hiring, except for CWRU undergraduate researchers &mdash; see the <a href="/lab-website/join/">Join</a> page.</p>
+        <p class="people-note">We are not currently hiring, except for CWRU undergraduate researchers and potentially CWRU master&rsquo;s students &mdash; see the <a href="/lab-website/join/">Join</a> page.</p>
 ---
