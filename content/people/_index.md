@@ -99,6 +99,14 @@ sections:
         <p class="person-bio">Ethan is a first-year undergraduate student at Case Western Reserve University majoring in Biomedical Engineering. His research includes using CRISPR gene editing and machine learning in predictive modeling to tackle microbiology-based issues.</p>
         </div>
         </div>
+        <div class="person">
+        <img src="/lab-website/media/authors/mario-vasquez.jpg" alt="Mario Vasquez">
+        <div>
+        <p class="person-name">Mario Vasquez</p>
+        <p class="person-role">Undergraduate Student, Biochemistry</p>
+        <p class="person-bio">Mario is a first-year undergraduate student at Case Western Reserve University majoring in Biochemistry. His research focuses on exploring self-amplifying RNA systems to improve the efficiency and effectiveness of RNA-based technologies.</p>
+        </div>
+        </div>
         </div>
 
         <p class="people-note">We are not currently hiring, except for CWRU undergraduate researchers &mdash; see the <a href="/lab-website/join/">Join</a> page.</p>
